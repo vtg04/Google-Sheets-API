@@ -7,13 +7,13 @@ This project demonstrates how to use the Google Sheets API to automate reading a
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Google-sheets-API.git
+git clone https://github.com/your-username/Google-Sheets-API.git
 ```
 
 ### Navigate to the Project Directory
 
 ```bash
-cd google-sheets-api-automation
+cd Google-Sheets-API
 ```
 
 ### Install Required Libraries
